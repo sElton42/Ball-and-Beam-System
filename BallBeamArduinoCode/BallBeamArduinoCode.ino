@@ -3,6 +3,10 @@
   DISCIPLINA: SISTEMAS REALIMENTADOS
   ANO: 2019
   PLATAFORMA: ARDUINO UNO | ATMEGA328P | Clock: 16 MHz
+
+  Arduino PID Library - Version 1.2.1
+  by Brett Beauregard
+  
 */
 #include<Servo.h>                                       //biblioteca c/ funções p/ usar o servo
 #include<PID_v1.h>                                      //biblioteca c/ algoritmo do PID
