@@ -4,8 +4,10 @@
   ANO: 2019
   PLATAFORMA: ARDUINO UNO | ATMEGA328P | Clock: 16 MHz
 
+  Biblioteca com a implementação do controlador PID:
   Arduino PID Library - Version 1.2.1
-  by Brett Beauregard
+  Autor: Brett Beauregard
+  Link: https://github.com/br3ttb/Arduino-PID-Library
   
 */
 #include<Servo.h>                                       //biblioteca c/ funções p/ usar o servo
